@@ -38,11 +38,11 @@ int main() {
 	if(isRESERVED(":")) {
 		printf("11\n");
 	}
-	if(isSEGMENT("")) {
+	if(isSEGMENT("%ff")) {
 		printf("12\n");
 	}
 
-	if(isSEGMENTNZ("")) {
+	if(isSEGMENTNZ("%ffabcd%aa%yo")) {
 		printf("13\n");
 	}
 	if(isSEGMENTNZNC(":@:")) {
@@ -63,10 +63,15 @@ int main() {
 	if(isIPVFUTURE("vfff.dwe::z")) {
 		printf("19\n");
 	}
-	//printf("%d\n",isH16O("fff::"));
-	char *a=substring(":ff",0,3);
-	printf("%s\n", a);
-	printf("%d\n",isH16I(":fff:"));
+	if(isH16I(":fff")) {
+		printf("20\n");
+	}
+
+	if(isPATHABEMPTY("/arbk/t3rf/ch7al/dali/hadchi/dyal/lw9t/wla/rni/adi/nhbl")) {
+		printf("21\n");
+	}
+	printf("%d\n",isPATHABSOLUE("/%ff//"));
+	
 
 
 

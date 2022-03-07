@@ -24,4 +24,6 @@ int isREGNAME(char *);
 int isIPVFUTURE(char *);
 int isH16O(char *);
 int isH16I(char *);
+int isPATHABEMPTY(char *);
+int isPATHABSOLUE(char *);
 #endif
