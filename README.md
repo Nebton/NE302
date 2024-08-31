@@ -49,3 +49,11 @@ The paths in the conf.txt file should be absolute or relative to the project roo
 
 ### 6. Access Your Sites
 Once the server is running, you can access your sites by navigating to the configured IP addresses in your web browser.
+
+### 7. Example
+By navigating to 127.0.0.1 on your browser, you will see an (old) Twitter login page.
+
+<div style="text-align: center;">
+  <img src="Example.png" alt="Screenshot" style="max-width: 100%; height: auto;">
+  <p><em>This is a screenshot showing the server running a Twitter clone.</em></p>
+</div>

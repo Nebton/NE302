@@ -10,3 +10,9 @@ http://127.0.0.2
 /home/doom/Projects/NE302/site2/
 http://127.0.0.3
 /home/doom/Projects/NE302/site3/
+http://127.0.0.1
+/home/doom/Projects/NE302/site1/
+http://127.0.0.2
+/home/doom/Projects/NE302/site2/
+http://127.0.0.3
+/home/doom/Projects/NE302/site3/
