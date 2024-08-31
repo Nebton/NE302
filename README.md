@@ -55,5 +55,4 @@ By navigating to 127.0.0.1 on your browser, you will see an (old) Twitter login 
 
 <div style="text-align: center;">
   <img src="Example.png" alt="Screenshot" style="max-width: 100%; height: auto;">
-  <p><em>This is a screenshot showing the server running a Twitter clone.</em></p>
 </div>
