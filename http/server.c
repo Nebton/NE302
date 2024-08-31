@@ -1205,7 +1205,7 @@ int main(int argc, char *argv[])
 				//printf("request target is [%.*s] at level %d\n\n\n", request->len, request->value, request->level );
 
 				if(strncmp(request->value,"/",request->len) == 0) {
-					strcpy(file,"Esisar.html");
+					strcpy(file,"Index.html");
 
 				}
 				else {
