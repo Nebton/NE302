@@ -1,6 +1,0 @@
-www.esisar.com
-/home/userir/Downloads/esisar
-www.test.com
-/home/userir/Downloads/test
-www.site.com
-/home/userir/Downloads/site
